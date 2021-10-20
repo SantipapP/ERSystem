@@ -26,11 +26,11 @@
     </div>
     <div class="input-group">
         <label for="">นามสกุล</label>
-        <input type="text" name="adfname">
+        <input type="text" name="adlname">
     </div>
     <div class="input-group">
         <label for="">ตำแหน่ง</label>
-        <select name="rank" id="">
+        <select name="adrank" id="">
             <option value="N/A">N/A</option>
             <option value="Human resouce">HR</option>
             <option value="IT">IT</option>
