@@ -16,6 +16,11 @@
         <label for="">หรือ</label><br><br>
         <button onClick = location="login.php" class="btn">ตรวจสอบผลการสมัคร์</button><br><br>
     </div>
-
+    <div class="mheader">
+        <h2 class="text-center">สำหรับเจ้าหน้าที่</h2>
+    </div>
+    <div class="content">
+        <button onClick = location="admin_login.php" class="btn">เข้าสู่ระบบ</button>
+    </div>
 </body>
 </html>
