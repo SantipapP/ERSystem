@@ -11,7 +11,7 @@
     <div class="mheader">
         <h2 class="text-center">เข้าสู่ระบบเจ้าหน้าที่ HR</h2>
     </div>
-    <form action="login_admin.php" method="POST" class="content">
+    <form action="adlogin.php" method="POST" class="content">
         <div class="input-group">
             <label for="">ชื่อผู้ใช้งาน</label>
             <input type="text" name="adusername">
